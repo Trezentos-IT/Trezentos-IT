@@ -1,15 +1,7 @@
-<h1 align="center">Oii! Eu sou [Seu Nome]</h1>
+<h1 align="center">Oii! Eu sou Trezentos</h1>
 
 <div align="center">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="background-color: #1e1e1e; padding: 10px; border-radius: 10px;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&rank_icon=github&hide=issues,contribs" />
-    </div>
-    <div style="background-color: #1e1e1e; padding: 10px; border-radius: 10px;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
-    </div>
-  </div>
 
   <br><br>
 
@@ -24,7 +16,7 @@
 
   <br><br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seulinkedin)
+  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:paulohenriquefigueiredoleite3@@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/paulo-henrique-figueiredo-leite-2b0964280)
 
 </div>
